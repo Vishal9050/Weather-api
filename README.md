@@ -1,2 +1,0 @@
-# Weather-api
-Weather api
